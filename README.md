@@ -30,6 +30,9 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
+### On mobile: 
+![React](https://img.shields.io/badge/-React%20Native-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+
 ### In genereal:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Git LFS](https://img.shields.io/badge/-Git%20LFS-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
@@ -45,9 +48,13 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 
+<hr />
+
+
 ## ⚡ GitHub Stats
 
 ![cesarwillemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarwillemberg&show_icons=true&theme=dark)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarwillemberg&layout=compact&theme=dark)
 
 
