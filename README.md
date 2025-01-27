@@ -6,7 +6,7 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="Hello, there" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
-### Here are some technology stacks I like to use
+### Here's some technology I like to use
 
 ### In the front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
