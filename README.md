@@ -38,7 +38,7 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-windows-232323?style=flat&logo=windows&logoColor=0078d4&labelColor=0078d4)
-![autocad](https://img.shields.io/badge/-windows-232323?style=flat&logo=autocad&logoColor=ffffff&labelColor=%23E61856)
+![autocad](https://img.shields.io/badge/-Autocad-232323?style=flat&logo=autocad&logoColor=ffffff&labelColor=%23E61856)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
