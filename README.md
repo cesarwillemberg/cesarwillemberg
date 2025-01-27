@@ -48,5 +48,6 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ## ⚡ GitHub Stats
 
 ![cesarwillemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarwillemberg&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarwillemberg&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarwillemberg&layout=compact&theme=dark)
+
 
