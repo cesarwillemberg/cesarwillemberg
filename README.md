@@ -44,3 +44,10 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
+
+## ⚡ GitHub Stats
+
+![cesarwillemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarwillemberg&show_icons=true&theme=dark)
+
+
+
