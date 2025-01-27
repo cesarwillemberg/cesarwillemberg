@@ -32,7 +32,7 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 
 ### In genereal:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Git LFS](https://img.shields.io/badge/-GitLFS-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
+![Git LFS](https://img.shields.io/badge/-Git LFS-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
