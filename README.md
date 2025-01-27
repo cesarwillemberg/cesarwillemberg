@@ -27,3 +27,12 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
+
+### In genereal:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
+![Git LFS](https://img.shields.io/badge/-windows-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
+![Windows](https://img.shields.io/badge/-windows-232323?style=flat&logo=windows&logoColor=0078d4&labelColor=0078d4)
+![autocad](https://img.shields.io/badge/-windows-232323?style=flat&logo=autocad&logoColor=ffffff&labelColor=%23E61856)
+
+
