@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+# HELLO THERE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do Sul.
 
@@ -48,6 +48,5 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ## ⚡ GitHub Stats
 
 ![cesarwillemberg GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarwillemberg&show_icons=true&theme=dark)
-
-
+![cesarwillemberg most used languages](https://github-readme-statsa.vercel.app/api/top-langs/?username=cesarwillemberg&layout=compact&count_private=true&theme=dark)
 
