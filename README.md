@@ -31,7 +31,7 @@ My name is César and I'm a full-stack web developer from Ijuí, Rio Grande do S
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
 ### In genereal:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Git LFS](https://img.shields.io/badge/-windows-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
