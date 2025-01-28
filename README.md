@@ -37,7 +37,7 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Git LFS](https://img.shields.io/badge/-Git%20LFS-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitLab-232323?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-windows-232323?style=flat&logo=windows&logoColor=0078d4&labelColor=0078d4)
