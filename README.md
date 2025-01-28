@@ -34,16 +34,16 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ![React](https://img.shields.io/badge/-React%20Native-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 
 ### In genereal:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Git LFS](https://img.shields.io/badge/-Git%20LFS-232323?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
+![Git LFS](https://img.shields.io/badge/-Git%20LFS-181717?style=flat&logo=git-lfs&logoColor=ffffff&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-232323?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-181717?style=flat-square&logo=bitbucket)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-windows-232323?style=flat&logo=windows&logoColor=0078d4&labelColor=0078d4)
+![Windows](https://img.shields.io/badge/-Windows-181717?style=flat&logo=windows&logoColor=0078d4&labelColor=0078d4)
 ![autocad](https://img.shields.io/badge/-Autocad-232323?style=flat&logo=autocad&logoColor=ffffff&labelColor=%23E61856)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
