@@ -25,12 +25,17 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=ffffff)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff)](#)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
+
 ### On mobile: 
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 ![React](https://img.shields.io/badge/-React%20Native-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 
 ### In genereal:
@@ -40,13 +45,24 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-181717?style=flat-square&logo=bitbucket)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-181717?style=flat&logo=windows&logoColor=0078d4&labelColor=0078d4)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 ![autocad](https://img.shields.io/badge/-Autocad-232323?style=flat&logo=autocad&logoColor=ffffff&labelColor=%23E61856)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
+
+### I am interested or I am learning
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 
 <hr />
 
