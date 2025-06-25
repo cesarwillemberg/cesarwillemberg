@@ -58,8 +58,11 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### Package Manager:
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
+### Code versioning:
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+
 ### In genereal:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,figma,postman,discord,autocad,regex,vercel,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,discord,autocad,regex,vercel,notion)](https://skillicons.dev)
 
 ### I am interested:
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes)](https://skillicons.dev)
