@@ -14,10 +14,10 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### In the back-end:
 [![My Skills](https://skillicons.dev/icons?i=java,php,py,nodejs)](https://skillicons.dev)
 
-### Framework's:
+### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,electron,express)](https://skillicons.dev)
 
-### Library's:
+### Libraries:
 [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
 [![JWT](https://img.shields.io/badge/jwt-black?logo=json%20web%20tokens&logoColor=red)](#)
 
