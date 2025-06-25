@@ -35,6 +35,9 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### On mobile::
 [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,react)](https://skillicons.dev)
 
+### CMS
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+
 ### DBMS:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
@@ -43,7 +46,7 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 [![My Skills](https://skillicons.dev/icons?i=sequelize,prisma)](https://skillicons.dev)
 
 ### IDE'S:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,idea,phpstorm)](https://skillicons.dev)
 
 ### OS:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
@@ -52,17 +55,17 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
 ### Terminal:
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
 [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
 
 ### Package Manager:
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn)](https://skillicons.dev)
 
 ### Code versioning:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
 
 ### In genereal:
-[![My Skills](https://skillicons.dev/icons?i=figma,postman,discord,autocad,regex,vercel,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,discord,autocad,regex,vercel,notion,gmail,obsidian,ps,pr,latex,gulp,cloudflare)](https://skillicons.dev)
 
 ### I am interested:
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes)](https://skillicons.dev)
