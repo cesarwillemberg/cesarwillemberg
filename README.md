@@ -11,19 +11,14 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### In the front-end:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts)](https://skillicons.dev)
 
-### Framework in the front-end:
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,electron,)](https://skillicons.dev)
-
-### Library in the front-end:
-[![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
-
 ### In the back-end:
 [![My Skills](https://skillicons.dev/icons?i=java,php,py,nodejs)](https://skillicons.dev)
 
-### Framework in the back-end:
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+### Framework's:
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,electron,express)](https://skillicons.dev)
 
-### Library in the back-end:
+### Library's:
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
 [![JWT](https://img.shields.io/badge/jwt-black?logo=json%20web%20tokens&logoColor=red)](#)
 
 ### Template Engine:
@@ -32,10 +27,10 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### Transpiler:
 [![My Skills](https://skillicons.dev/icons?i=webpack,babel)](https://skillicons.dev)
 
-### On mobile::
+### On mobile:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,react)](https://skillicons.dev)
 
-### CMS
+### CMS:
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 
 ### DBMS:
