@@ -23,6 +23,9 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### Framework in the back-end:
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
+### Library in the back-end:
+[![JWT](https://img.shields.io/badge/jwt-black?logo=json%20web%20tokens&logoColor=red)](#)
+
 ### Template Engine:
 [![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff)](#)
 
@@ -58,8 +61,11 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### In genereal:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,figma,postman,discord,autocad,regex,vercel,notion)](https://skillicons.dev)
 
-### I am interested / I am learning:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes)](https://skillicons.dev)
+### I am interested:
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes)](https://skillicons.dev)
+
+### I am learning:
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 <hr />
 
