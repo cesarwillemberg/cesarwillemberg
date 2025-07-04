@@ -15,7 +15,7 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 [![My Skills](https://skillicons.dev/icons?i=java,php,py,nodejs)](https://skillicons.dev)
 
 ### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,electron,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,electron,express,spring)](https://skillicons.dev)
 
 ### Libraries:
 [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
@@ -53,14 +53,32 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
 [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
 
+### Cloud 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+
+### BaaS & SaaS
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
+### Automated Testing
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+
 ### Package Manager:
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn)](https://skillicons.dev)
 
 ### Code versioning:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
 
+### Prototyping
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev)
+
+### 3D modeling
+[![My Skills](https://skillicons.dev/icons?i=blender,autocad)](https://skillicons.dev)
+
+### Workspace
+[![My Skills](https://skillicons.dev/icons?i=discord,notion,gmail,obsidian)](https://skillicons.dev)
+
 ### In genereal:
-[![My Skills](https://skillicons.dev/icons?i=figma,postman,discord,autocad,regex,vercel,notion,gmail,obsidian,ps,pr,latex,gulp,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,regex,vercel,latex,gulp,cloudflare)](https://skillicons.dev)
 
 ### I am interested:
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes,flutter)](https://skillicons.dev)
