@@ -63,7 +63,7 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 [![My Skills](https://skillicons.dev/icons?i=figma,postman,discord,autocad,regex,vercel,notion,gmail,obsidian,ps,pr,latex,gulp,cloudflare)](https://skillicons.dev)
 
 ### I am interested:
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unreal,unity,godot,docker,dotnet,kubernetes,flutter)](https://skillicons.dev)
 
 ### I am learning:
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
