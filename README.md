@@ -1,4 +1,12 @@
-# HELLO THERE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm César Willemberg</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Software+Engineer;Full-Stack+Developer;Game+Developer" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
 My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 
@@ -6,7 +14,9 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="Hello, there" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
-### Here's some technology I like to use
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 ### In the front-end:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts)](https://skillicons.dev)
@@ -86,10 +96,10 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
 ### I am learning:
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-<hr />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 
-## ⚡ GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/cesarwillemberg">
@@ -107,5 +117,27 @@ My name is César and I'm a Software Engineer from Ijuí, Rio Grande do Sul.
   </picture>
 </div>
 <br><br>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cesarwillemberg/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:cesaraugustow17@gmail.com" target="_blank" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cesarwillemberg" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 
